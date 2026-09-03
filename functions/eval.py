@@ -1,7 +1,6 @@
 from sklearn.metrics import auc as auc_score
 from scipy.stats import kendalltau
 import numpy as np
-# from sklearn.linear_model import LinearRegression
 import kneeliverse.lmethod as lmethod
 import kneeliverse.kneedle as kneedle
 import kneeliverse.dfdt as dfdt
